@@ -7668,3 +7668,6 @@ Shwetha Varma(https://github.com/shwetharv)
 - [Ankush Mehta](https://github.com/hsukna/)
 - [Harrison Broadbent](https://github.com/harrison-broadbent)
 - [Umesh Pandey](https://github.com/umeshpandey994)
+- [Vikas Nautiyal](https://github.com/vikasnautiyal)
+- [Sayak Naskar](https://github.com/hacky1997)
+
